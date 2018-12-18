@@ -1,4 +1,4 @@
 # SimpleGetSetContract
 Invalid Testcase :
 
-Incorrect_Xooa_yaml
+Chaincode_Folder_Contains_Spaces

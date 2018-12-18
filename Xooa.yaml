@@ -1,10 +1,10 @@
 Apps:
   SimpleContractSolidity
     Name: GetSetContract
-    Description: Incorrect Xooa yaml
-    path: /contract/GetSetContract.sol
+    Description: Chaincode Folder Contains Spaces
+    path: /Smart contract/GetSetContract.sol
     language: solidity
-    README: https://github.com/xooausertwo/SimpleGetSetContract/blob/Invalid_Readme_yaml/README.md
+    README: https://github.com/xooausertwo/SimpleGetSetContract/blob/Chaincode_Folder_Contains_Spaces/README.md
   GetSetGo:
     Name: GetSetContract
     Description: Go Get Set Smart Contract for Hyperledger fabric
