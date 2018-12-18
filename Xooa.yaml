@@ -1,9 +1,9 @@
 Apps:
   SimpleContractSolidity:
     Name: GetSetContract
-    Description: Invalid Lang In Xooa yaml
+    Description: Invalid Readme yaml
     path: /contract/GetSetContract.sol
-    language: 
+    language: solidity
     README: https://github.com/rajatxooa/simpleContract/blob/master/README.md
   GetSetGo:
     Name: GetSetContract
