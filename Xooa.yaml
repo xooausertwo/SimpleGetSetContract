@@ -4,7 +4,7 @@ Apps:
     Description: Invalid Lang In Xooa yaml
     path: /contract/GetSetContract.sol
     language: 
-    README: https://github.com/rajatxooa/simpleContract/blob/master/README.md
+    README: https://github.com/xooausertwo/SimpleGetSetContract/blob/Invalid_Lang_In_Xooa_yaml/README.md
   GetSetGo:
     Name: GetSetContract
     Description: Go Get Set Smart Contract for Hyperledger fabric
