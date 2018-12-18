@@ -1,2 +1,4 @@
 # SimpleGetSetContract
-Simple contract to set and get a state
+Invalid Testcase :
+
+GitHub Repo not contains Xooa.yaml file 
