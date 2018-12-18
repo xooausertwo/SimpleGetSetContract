@@ -1,5 +1,5 @@
 Apps:
-  SimpleContractSolidity
+  SimpleContractSolidity:
     Name: GetSetContract
     Description: Chaincode Folder Contains Spaces
     path: /Smart contract/GetSetContract.sol
