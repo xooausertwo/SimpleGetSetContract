@@ -1,4 +1,4 @@
 # SimpleGetSetContract
 Invalid Testcase :
 
-GitHub Repo not contains Xooa.yaml file 
+Xooa.yaml file does not contains Fully Qualified path of the Smart Contract

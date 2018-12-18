@@ -1,0 +1,13 @@
+Apps:
+  SimpleContractSolidity:
+    Name: GetSetContract
+    Description: Missing Chaincode file name in Path
+    path: /contract/
+    language: solidity
+    README: https://github.com/rajatxooa/simpleContract/blob/master/README.md
+  GetSetGo:
+    Name: GetSetContract
+    Description: Go Get Set Smart Contract for Hyperledger fabric
+    path: /contract_go/
+    language: go
+    README: https://github.com/rajatxooa/simpleContract/blob/master/README.md
