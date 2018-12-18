@@ -1,7 +1,7 @@
 Apps:
   SimpleContractSolidity:
     Name: GetSetContract
-    Description: Same Smart Contract File exists at mentioned path but different languages
+    Description: Missing Chaincode File
     path: /contract/GetSetContract.sol
     language: solidity
     README: https://github.com/rajatxooa/simpleContract/blob/master/README.md
