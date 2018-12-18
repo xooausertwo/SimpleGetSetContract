@@ -1,4 +1,4 @@
 # SimpleGetSetContract
 Invalid Testcase :
 
-Chaincode is missing from the specified chaincode path
+Invalid_Lang_In_Xooa_yaml
