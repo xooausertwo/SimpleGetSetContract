@@ -1,4 +1,4 @@
 # SimpleGetSetContract
 Invalid Testcase :
 
-Invalid_Readme_yaml
+Incorrect_Xooa_yaml

@@ -1,10 +1,10 @@
 Apps:
-  SimpleContractSolidity:
+  SimpleContractSolidity
     Name: GetSetContract
-    Description: Invalid Readme yaml
+    Description: Incorrect Xooa yaml
     path: /contract/GetSetContract.sol
     language: solidity
-    README: https://github.com/rajatxooa/simpleContract/blob/master/README.md
+    README: https://github.com/xooausertwo/SimpleGetSetContract/blob/Invalid_Readme_yaml/README.md
   GetSetGo:
     Name: GetSetContract
     Description: Go Get Set Smart Contract for Hyperledger fabric
