@@ -4,7 +4,7 @@ Apps:
     Description: Missing Chaincode File
     path: /contract/GetSetContract.sol
     language: solidity
-    README: https://github.com/rajatxooa/simpleContract/blob/master/README.md
+    README: https://github.com/xooausertwo/SimpleGetSetContract/blob/Missing_Chaincode_File/README.md
   GetSetGo:
     Name: GetSetContract
     Description: Go Get Set Smart Contract for Hyperledger fabric
