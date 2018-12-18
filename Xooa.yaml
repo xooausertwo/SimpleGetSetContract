@@ -1,8 +1,7 @@
 Apps:
   SimpleContractSolidity
     Name: GetSetContract
-    Description: Chaincode Folder Contains Spaces
-    path: /Smart contract/GetSetContract.sol
+    Description: Missing Path in Xooa Yaml
     language: solidity
     README: https://github.com/xooausertwo/SimpleGetSetContract/blob/Chaincode_Folder_Contains_Spaces/README.md
   GetSetGo:
