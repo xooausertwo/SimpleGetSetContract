@@ -1,4 +1,4 @@
 # SimpleGetSetContract
 Invalid Testcase :
 
-Xooa.yaml file does not contains Fully Qualified path of the Smart Contract
+Xooa.yaml path contains two Chaincode files in folder
